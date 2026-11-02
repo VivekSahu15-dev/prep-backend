@@ -1,0 +1,1 @@
+export const BRANCHES = ['CSE', 'IT', 'ECE', 'EEE', 'MECH', 'CIVIL', 'OTHER'] as const;
